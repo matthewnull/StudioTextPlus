@@ -1,0 +1,13 @@
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\bin\Release\StudioText++.exe.config
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\bin\Release\StudioText++.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\bin\Release\StudioText++.pdb
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText+.csproj.AssemblyReference.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText+.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText__.Form1.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText__.Properties.Resources.resources
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText+.csproj.GenerateResource.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText+.csproj.CoreCompileInputs.cache
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText+.csproj.CopyComplete
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText++.exe
+C:\Users\Piff\Documents\Visual Studio 2022\Sources\Repositories\StudioText++\obj\Release\StudioText++.pdb
