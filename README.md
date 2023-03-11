@@ -15,3 +15,6 @@ Options:
 - Use Numpad (4/1, 5/2, & 6/3)
 - Opacity Slider
 - Hide from taskbar option
+
+Version Update Notes:
+- Bug Fixes
